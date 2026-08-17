@@ -1,1 +1,265 @@
+/*css styling pages*/
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
 
+body {
+ background-color: #e2f0f3; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: navy;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2{
+  text-align: center;
+  line-height: 1.5em;
+
+  margin-top: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+h3{
+  text-align: center;
+  margin-bottom: 10px;
+
+}
+
+
+.kits.graphicsfromcanva {
+  text-align: center;
+  padding: 20px;
+  margin: 100px;
+  font-size: 20px;
+}
+
+
+.spreadtheword {
+  background: navy;
+  border-radius: 50px;
+  border-style: none;
+
+  padding: 30px;
+
+  margin-top: 30px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-bottom: 40px;
+
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.5em;
+  color: white;
+
+  list-style-type: none;
+
+}
+
+.about{
+  background: navy;
+  border-radius: 50px;
+  border-style: none;
+
+  padding: 30px;
+
+  margin-top: 20px;
+  margin-left: 25%;
+  margin-right: 25%;
+
+  font-size: 30px;
+  text-align: center;
+  line-height: 1.5em;
+  color: white;
+}
+
+
+.aboutdesc{
+  text-align: center;
+  line-height: 1.5em;
+
+  margin-top: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: 30px;
+}
+
+
+
+.homePage {
+  background: none;
+  border-radius: 50px;
+  border-style: solid;
+
+  padding: 30px;
+
+  margin-top: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+
+  font-size: 25px;
+  text-align: center;
+  line-height: 1.5em;
+  color: navy;
+}
+
+.homePage2 {
+  background: none;
+  border-radius: 50px;
+  border-style: solid;
+
+  padding: 30px;
+
+  margin-top: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+
+  font-size: 25px;
+  text-align: center;
+  line-height: 1.5em;
+  color: navy;
+}
+
+
+.canva p{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 60%;
+  padding: 20px;
+ }
+
+
+
+
+.supplyKits {
+  background: none;
+  border-radius: 50px;
+  border-style: solid;
+
+  padding: 30px;
+
+  margin-top: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+
+  font-size: 25px;
+  text-align: center;
+  line-height: 1.5em;
+  color: navy;
+  
+}
+
+
+.lowCost {
+   background: none;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: navy;
+
+  padding: 30px;
+
+  margin-top: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+
+
+  font-size: 25px;
+  text-align: center;
+  line-height: 1.5em;
+  color: navy;
+
+}
+
+.lowCostList{
+     background: none;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: navy;
+
+  padding: 30px;
+
+  margin-top: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 30px;
+
+
+  font-size: 25px;
+  text-align: center;
+  line-height: 1.5em;
+  color: navy;
+}
+/* STYLE IMAGES */
+.disastersupplykit img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding: 20px;
+}
+
+
+.helene {
+  img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding: 20px;
+  }
+  p{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  padding: 20px;
+  }
+}
+
+
+/* STYLE NAV BAR */
+
+nav ul{
+  list-style-type: none;
+  background-color: #e2f0f3;
+  overflow: hidden;
+  padding: 1em;
+  text-align: center;
+  border-radius: 50px;
+}
+
+nav li{
+  display: inline-block;
+  margin: 2em;
+}
+
+nav li a{
+  text-decoration: none;
+  color: #3c607e;
+  font-size: 20px;
+  padding: 30px;
+  
+}
+
+nav a:hover {
+  background-color: white;
+}
+
+
+
+
+/* STYLE BUTTONS */
+
+.
+
+/* ADD MORE! */
